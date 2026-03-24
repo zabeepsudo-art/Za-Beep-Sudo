@@ -39,8 +39,8 @@ const zaBeep = {
 
 [![YouTube](https://img.shields.io/badge/YouTube-Yelotalent-FF0000?style=for-the-badge\&logo=youtube\&logoColor=white)](https://www.youtube.com/@YeLoTalent)
 [![Instagram](https://img.shields.io/badge/Instagram-@yelotalent-E4405F?style=for-the-badge\&logo=instagram\&logoColor=white)](https://instagram.com/yelotalent)
-[![GitHub](https://img.shields.io/badge/GitHub-yelotalent-000000?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/YOUR_USERNAME)
-[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:YOUR_EMAIL)
+[![GitHub](https://img.shields.io/badge/GitHub-yelotalent-000000?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/zabeepsudo-art)
+[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:zabeepsudo@gmail.com)
 
 </div>
 
