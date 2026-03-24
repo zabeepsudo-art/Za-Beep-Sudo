@@ -16,9 +16,9 @@ I specialize in building scalable, production-ready web applications using **Lar
 const zaBeep = {
   experience: "5+ years",
   role: "Full Stack Software Engineer",
-  stack: ["Laravel", "React", "Node.js", "Vue", "Inertia"],
+  stack: ["Laravel", "MERN", "Vue", "Inertia", "NextJs","NestJs"],
   focus: "SaaS platforms & scalable systems",
-  currently: "Building in public & strengthening my portfolio",
+  currently: "Building in public, strengthening my portfolio & transitioning myself to AI Automation Engineer",
 };
 ```
 
