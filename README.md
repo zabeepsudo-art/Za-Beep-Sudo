@@ -35,61 +35,69 @@ const zaBeep = {
 ---
 <div align="center">
 
-<h1>⚡ Yelotalent</h1>
+<h2>🌐 Connect with Me</h2>
 
-<p>
-  <strong>Software Engineer • Laravel • MERN • SaaS Systems</strong>
-</p>
-
-<p>
-  Building scalable applications, designing multi-tenant architectures, and turning ideas into production systems.
-</p>
-
-<br/>
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code\&size=20\&pause=1200\&color=22C55E\&center=true\&vCenter=true\&width=500\&lines=Shipping+real+world+products;Scaling+backend+systems;Designing+clean+APIs;Always+learning+and+building)](https://git.io/typing-svg)
-
-<br/>
-
-[![GitHub](https://img.shields.io/badge/GitHub-000000?style=flat-square\&logo=github\&logoColor=white)](https://github.com/YOUR_USERNAME)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square\&logo=linkedin\&logoColor=white)](YOUR_LINKEDIN)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square\&logo=gmail\&logoColor=white)](mailto:YOUR_EMAIL)
+[![YouTube](https://img.shields.io/badge/YouTube-Yelotalent-FF0000?style=for-the-badge\&logo=youtube\&logoColor=white)](https://www.youtube.com/@YeLoTalent)
+[![Instagram](https://img.shields.io/badge/Instagram-@yelotalent-E4405F?style=for-the-badge\&logo=instagram\&logoColor=white)](https://instagram.com/yelotalent)
+[![GitHub](https://img.shields.io/badge/GitHub-yelotalent-000000?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/YOUR_USERNAME)
+[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:YOUR_EMAIL)
 
 </div>
 
 ---
 
-## 🧠 Engineering Focus
+## ⚒️ Tech Stack
 
-* 🏗️ SaaS & Multi-Tenant Architecture (Stancl)
-* 🔗 REST & GraphQL APIs
-* ⚡ Performance Optimization & Scalability
-* 🧩 Clean Architecture & Maintainable Code
+### 🖥️ Frontend
 
----
-
-## ⚒️ Core Stack
-
-```txt
-Backend   → Laravel • Node.js
-Frontend  → React • Vue • Inertia
-Database  → MySQL • PostgreSQL • MongoDB • Redis
-DevOps    → Docker • Git • CI/CD
-```
+![HTML5](https://img.shields.io/badge/HTML5-9C2410?style=for-the-badge\&logo=html5\&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-0D4F7A?style=for-the-badge\&logo=css3\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-B8A000?style=for-the-badge\&logo=javascript\&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-1D4ED8?style=for-the-badge\&logo=typescript\&logoColor=white)
+![React](https://img.shields.io/badge/React-0A7EA4?style=for-the-badge\&logo=react\&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge\&logo=next.js\&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-2E7D32?style=for-the-badge\&logo=vue.js\&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-0F4C5C?style=for-the-badge\&logo=tailwind-css\&logoColor=white)
 
 ---
 
-## 🚀 Current Direction
+### ⚙️ Backend
 
-* Building **public, production-level projects**
-* Sharing real-world engineering solutions
-* Strengthening system design & architecture skills
+![PHP](https://img.shields.io/badge/PHP-4F5B93?style=for-the-badge\&logo=php\&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-B71C1C?style=for-the-badge\&logo=laravel\&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-1B5E20?style=for-the-badge\&logo=node.js\&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express-000000?style=for-the-badge\&logo=express\&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-8B0A1A?style=for-the-badge\&logo=nestjs\&logoColor=white)
 
 ---
 
-## 📌 Philosophy
+### 📱 Mobile
 
-> "Code is easy. Designing systems that scale is the real craft."
+![React Native](https://img.shields.io/badge/React_Native-0A7EA4?style=for-the-badge\&logo=react\&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-01579B?style=for-the-badge\&logo=flutter\&logoColor=white)
+![Swift](https://img.shields.io/badge/Swift-BF360C?style=for-the-badge\&logo=swift\&logoColor=white)
+
+---
+
+### 🗄️ Database
+
+![MySQL](https://img.shields.io/badge/MySQL-00566F?style=for-the-badge\&logo=mysql\&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-2F4F7F?style=for-the-badge\&logo=postgresql\&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-2E7D32?style=for-the-badge\&logo=mongodb\&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-BF360C?style=for-the-badge\&logo=firebase\&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-1B5E20?style=for-the-badge\&logo=supabase\&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-6B1414?style=for-the-badge\&logo=redis\&logoColor=white)
+
+---
+
+### 🧰 Tools
+
+![Git](https://img.shields.io/badge/Git-BF360C?style=for-the-badge\&logo=git\&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge\&logo=github\&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-0D4F7A?style=for-the-badge\&logo=visual-studio-code\&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-0D4F7A?style=for-the-badge\&logo=docker\&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-B71C1C?style=for-the-badge\&logo=figma\&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-8B3A0D?style=for-the-badge\&logo=postman\&logoColor=white)
 
 ---
 
