@@ -116,8 +116,8 @@ const zaBeep = {
 
 ## 📫 Connect With Me
 
-* LinkedIn: [(add your link)](https://www.linkedin.com/in/zeeshan-arshad-75441a151/)
-* Email: [(add your link)](zabeepsudo@gmail.com)
+* LinkedIn: [(Linkden)](https://www.linkedin.com/in/zeeshan-arshad-75441a151/)
+* Email: [(Mailto)](zabeepsudo@gmail.com)
 
 ---
 
