@@ -33,25 +33,67 @@ const zaBeep = {
 * ⚡ Focus on **performance & scalability**
 
 ---
+<div align="center">
 
-## 🛠 Tech Stack
+<h1>⚡ Yelotalent</h1>
 
-**Backend**
+<p>
+  <strong>Software Engineer • Laravel • MERN • SaaS Systems</strong>
+</p>
 
-* Laravel (PHP)
-* Node.js (Express)
+<p>
+  Building scalable applications, designing multi-tenant architectures, and turning ideas into production systems.
+</p>
 
-**Frontend**
+<br/>
 
-* React, Vue
-* Inertia.js
-* Tailwind CSS
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code\&size=20\&pause=1200\&color=22C55E\&center=true\&vCenter=true\&width=500\&lines=Shipping+real+world+products;Scaling+backend+systems;Designing+clean+APIs;Always+learning+and+building)](https://git.io/typing-svg)
 
-**Database**
+<br/>
 
-* MySQL, PostgreSQL
-* MongoDB
-* Redis
+[![GitHub](https://img.shields.io/badge/GitHub-000000?style=flat-square\&logo=github\&logoColor=white)](https://github.com/YOUR_USERNAME)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square\&logo=linkedin\&logoColor=white)](YOUR_LINKEDIN)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square\&logo=gmail\&logoColor=white)](mailto:YOUR_EMAIL)
+
+</div>
+
+---
+
+## 🧠 Engineering Focus
+
+* 🏗️ SaaS & Multi-Tenant Architecture (Stancl)
+* 🔗 REST & GraphQL APIs
+* ⚡ Performance Optimization & Scalability
+* 🧩 Clean Architecture & Maintainable Code
+
+---
+
+## ⚒️ Core Stack
+
+```txt
+Backend   → Laravel • Node.js
+Frontend  → React • Vue • Inertia
+Database  → MySQL • PostgreSQL • MongoDB • Redis
+DevOps    → Docker • Git • CI/CD
+```
+
+---
+
+## 🚀 Current Direction
+
+* Building **public, production-level projects**
+* Sharing real-world engineering solutions
+* Strengthening system design & architecture skills
+
+---
+
+## 📌 Philosophy
+
+> "Code is easy. Designing systems that scale is the real craft."
+
+---
+
+
 
 ---
 
